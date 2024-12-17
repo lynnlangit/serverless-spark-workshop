@@ -12,7 +12,7 @@ Following are the lab modules:
 The datasets used for this project are
 
 
-1. [Confirmed data](../01-datasets/confirmed_df .csv). <br>
+1. [Confirmed data](../01-datasets/confirmed_df.csv). <br>
 2. [Death data](../01-datasets/death_df.csv) . <br>
 3. [Latest data](../01-datasets/latest_data.csv). <br>
 4. [US Medical data](../01-datasets/us_medical_data.csv). <br>
